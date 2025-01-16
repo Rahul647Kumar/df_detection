@@ -29,7 +29,7 @@ DeepFake-Detection
 
 ## Project Set-up Guidelines
 To set up the project. All the steps and guidelines regarding that are.
-project setup file [here](https://github.com/yuezunli/celeb-deepfakeforensics)
+project setup file [here](https://github.com/Rahul647Kumar/df_detection/blob/main/DeepFake-Detection-main%20(2)/Project-Setup.txt)
 
 ## Note
 1. In the root folder(DeepFake_Detection), create a new folder called "Uploaded_Files".
