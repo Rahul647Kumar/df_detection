@@ -1,0 +1,23 @@
+- FOLDER TITLE: DEEPFAKE_DETECTION
+
+
+- The Modules in the Project:
+  1. Flask Backend (DeepFake_Detection)
+  
+- Create Virtual Environment 
+  1. python -m venv .venv  ( project in terminal).
+  2. .venv\Scripts\activate (inside a deepfake file).
+
+
+- To install required Python Packages:
+  1. Execute 'pip install -r requirements.txt' in terminal.
+  
+- To run this Project:
+  1. Go in DeepFake_Detection directory --> 'cd DeepFake_Detection'
+
+  2. Run Command --> 'python server.py'
+  
+- That's it! You've succesfully executed the Project.
+
+- If you've any doubts. Please, feel free to contact us and we will be ready to help.
+
