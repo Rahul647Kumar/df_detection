@@ -16,7 +16,6 @@ DeepFake Detection Web-App 🖥 using Deep Learning(ResNext), Flask and ReactJs 
 DeepFake-Detection
     |
     |--- DeepFake_Detection
-    |--- Implementation Video
     |--- Project-Setup.txt
     |--- Requiremnts.txt
 ```
